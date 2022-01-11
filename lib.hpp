@@ -1,0 +1,11 @@
+using std::cout;
+using std::cin;
+using std::endl;
+using std::setw;
+using std::string;
+using std::setprecision;
+using std::left;
+using std::vector; 
+using std::accumulate;
+using std::domain_error;
+using std::sort;
