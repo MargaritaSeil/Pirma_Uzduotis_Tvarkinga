@@ -9,3 +9,8 @@ using std::vector;
 using std::accumulate;
 using std::domain_error;
 using std::sort;
+using std::fstream;
+using std::ifstream;
+using std::ofstream;
+using std::getline;
+using std::istringstream;
